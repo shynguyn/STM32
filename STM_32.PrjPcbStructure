@@ -1,1 +1,6 @@
-Record=TopLevelDocument|FileName=STM32_Schematic.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_ADXL345|SchDesignator=U_ADXL345|FileName=ADXL345.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=ADXL345.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_CN3791_solar|SchDesignator=U_CN3791_solar|FileName=CN3791_solar.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=CN3791_solar.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_LORA|SchDesignator=U_LORA|FileName=LORA.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=LORA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_POWER|SchDesignator=U_POWER|FileName=POWER.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_STM32_Schematic|SchDesignator=U_STM32_Schematic|FileName=STM32_Schematic.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=STM32_Schematic.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
